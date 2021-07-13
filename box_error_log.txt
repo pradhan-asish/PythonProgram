@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<ipython-input-26-c0a063600e5b>", line 8, in boxCreation
+    raise Exception('Symbol cannot have length more than 2')
+Exception: Symbol cannot have length more than 2
+Traceback (most recent call last):
+  File "<ipython-input-27-8fb3ed8e7c3a>", line 11, in boxCreation
+    raise Exception('Symbol cannot have length or bredth should not be less than 2')
+Exception: Symbol cannot have length or bredth should not be less than 2

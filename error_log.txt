@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "<ipython-input-21-0749eae1df3b>", line 9, in boxCreation
+    raise Exception('Symbol cannot have length more than 2')
+Exception: Symbol cannot have length more than 2
+Traceback (most recent call last):
+  File "<ipython-input-23-6c3fadb65fd8>", line 8, in boxCreation
+    raise Exception('Symbol cannot have length more than 2')
+Exception: Symbol cannot have length more than 2
+Traceback (most recent call last):
+  File "<ipython-input-24-4d0880aab8a4>", line 8, in boxCreation
+    raise Exception('Symbol cannot have length more than 2')
+Exception: Symbol cannot have length more than 2
+Traceback (most recent call last):
+  File "<ipython-input-25-3602409b2a04>", line 8, in boxCreation
+    raise Exception('Symbol cannot have length more than 2')
+Exception: Symbol cannot have length more than 2

@@ -1,0 +1,8 @@
+2021-07-14 23:40:06,282 - INFO - The input number is:5
+2021-07-14 23:40:06,282 - DEBUG - The i is 1 and total is 1 : 
+2021-07-14 23:40:06,282 - DEBUG - The i is 2 and total is 2 : 
+2021-07-14 23:40:06,283 - DEBUG - The i is 3 and total is 6 : 
+2021-07-14 23:40:06,283 - DEBUG - The i is 4 and total is 24 : 
+2021-07-14 23:40:06,283 - DEBUG - The i is 5 and total is 120 : 
+2021-07-14 23:40:06,283 - WARNING - The factorial of number is:5
+2021-07-14 23:40:06,283 - CRITICAL - 120
